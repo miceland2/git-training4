@@ -1,1 +1,1 @@
-conflict branch text
+conflict branch text2
