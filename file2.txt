@@ -1,3 +1,4 @@
 test for file2
 added line conflict
 added line2 conflict
+added line3 conflict
