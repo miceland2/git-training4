@@ -1,1 +1,2 @@
 conflict branch text2
+new line, comitted
