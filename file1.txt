@@ -1,4 +1,6 @@
-conflict branch line 1 main edit
+conflict branch line 1 conflict edit
 conflict branch line 2
-conflict branch line 3 main edit
+conflict branch line 3 conflict edit
 conflict branch line 4
+
+Choosing conflict edit lines
