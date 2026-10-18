@@ -1,4 +1,4 @@
-conflict branch line 1
+conflict branch line 1 modified
 conflict branch line 2
-conflict branch line 3
+conflict branch line 3 modified
 conflict branch line 4
